@@ -58,7 +58,7 @@ export default function DashboardPage() {
             tag="Dashboard"
             title="Your Verification Hub"
             description="Access real-time misinformation detection, manage community submissions, and monitor trending false narratives across multiple languages. Track your impact and contribute to protecting democracy worldwide."
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/four-layer-verification-system-diagram-s-1772806231382-f9200383.png"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/four-layer-verification-system-diagram-s-1772806231382-f9200383.png?_wi=2"
             imageAlt="Dashboard verification interface"
             useInvertedBackground={false}
             buttons={[
@@ -131,7 +131,7 @@ export default function DashboardPage() {
                 description:
                   "Contribute to the global fact-checking effort by submitting suspicious content. Our community and expert reviewers will analyze, rate evidence quality, and provide transparent verification results you can trust.",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/community-verification-dashboard-showing-1772806230382-aea85eb5.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/community-verification-dashboard-showing-1772806230382-aea85eb5.png?_wi=2",
                 imageAlt: "Claim submission interface",
                 buttons: [
                   {
@@ -148,7 +148,7 @@ export default function DashboardPage() {
                 description:
                   "Watch trending misinformation in real-time with our watchlist system. Community votes highlight critical topics and you can see exactly how false narratives spread, mutate, and get corrected across networks.",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-watchlist-monitoring-interface-di-1772806231152-fb359d52.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-watchlist-monitoring-interface-di-1772806231152-fb359d52.png?_wi=2",
                 imageAlt: "Real-time misinformation watchlist",
                 buttons: [
                   {
@@ -165,7 +165,7 @@ export default function DashboardPage() {
                 description:
                   "Browse fact-checks from professional journalists, researchers, and certified community moderators. See confidence scores, supporting evidence, and the full verification timeline for each claim.",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/advanced-ai-analysis-interface-showing-b-1772806231773-faa0d615.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/advanced-ai-analysis-interface-showing-b-1772806231773-faa0d615.png?_wi=2",
                 imageAlt: "Expert analysis and verification results",
                 buttons: [
                   {
@@ -198,7 +198,7 @@ export default function DashboardPage() {
 
       <div id="footer" data-section="footer" className="py-0">
         <FooterMedia
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png?_wi=2"
           imageAlt="Global verification network"
           logoText="TruthGuard"
           copyrightText="© 2025 TruthGuard. Fighting misinformation, protecting democracy."
