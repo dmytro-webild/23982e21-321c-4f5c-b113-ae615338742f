@@ -97,7 +97,7 @@ export default function HomePage() {
                 description:
                   "Get instant alerts when you encounter suspicious content. The extension analyzes claims against our database and shows confidence scores, matching patterns with debunked narratives, and community verification status.",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/browser-window-showing-truthguard-extens-1772806230097-c428a5c8.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/browser-window-showing-truthguard-extens-1772806230097-c428a5c8.png?_wi=1",
                 imageAlt: "Browser extension alert interface",
                 buttons: [
                   {
@@ -114,7 +114,7 @@ export default function HomePage() {
                 description:
                   "Users submit suspicious claims, images, and videos for verification. Community members and fact-checking experts rate the evidence strength, collaboratively determining claim accuracy and providing transparent, peer-reviewed results.",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/community-verification-dashboard-showing-1772806230382-aea85eb5.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/community-verification-dashboard-showing-1772806230382-aea85eb5.png?_wi=1",
                 imageAlt: "Crowdsourced verification dashboard",
                 buttons: [
                   {
@@ -131,7 +131,7 @@ export default function HomePage() {
                 description:
                   "Our advanced AI trained on diverse global datasets identifies cultural biases, AI-generated deepfakes, rhetorical manipulation, and logical fallacies in multiple languages. Transparent scoring helps users understand why content flagged.",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/advanced-ai-analysis-interface-showing-b-1772806231773-faa0d615.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/advanced-ai-analysis-interface-showing-b-1772806231773-faa0d615.png?_wi=1",
                 imageAlt: "AI analysis showing bias and deepfake detection",
                 buttons: [
                   {
@@ -165,7 +165,7 @@ export default function HomePage() {
                 description:
                   "Community votes highlight critical topics—elections, disasters, health crises. Real-time feeds track misinformation patterns, safe-sharing tools help prevent spread, and alerts notify users of emerging false narratives.",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-watchlist-monitoring-interface-di-1772806231152-fb359d52.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-watchlist-monitoring-interface-di-1772806231152-fb359d52.png?_wi=1",
                 imageAlt: "Global watchlist of trending misinformation topics",
                 buttons: [
                   {
@@ -202,7 +202,7 @@ export default function HomePage() {
             tag="The Process"
             title="How TruthGuard Works"
             description="A four-layer verification system combining AI analysis, crowdsourcing, expert review, and community consensus."
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/four-layer-verification-system-diagram-s-1772806231382-f9200383.png"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/four-layer-verification-system-diagram-s-1772806231382-f9200383.png?_wi=1"
             imageAlt="Four-layer verification system diagram"
             useInvertedBackground={false}
             buttons={[
@@ -284,7 +284,7 @@ export default function HomePage() {
                 name: "Real-Time Alert System",
                 price: "FREE",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/close-up-of-browser-extension-alert-noti-1772806229302-c8803791.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/close-up-of-browser-extension-alert-noti-1772806229302-c8803791.png?_wi=1",
                 imageAlt: "Real-time alert notification",
                 initialQuantity: 1,
               },
@@ -293,7 +293,7 @@ export default function HomePage() {
                 name: "Confidence Score Display",
                 price: "FREE",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/confidence-score-visualization-showing-p-1772806228778-851eef69.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/confidence-score-visualization-showing-p-1772806228778-851eef69.png?_wi=1",
                 imageAlt: "Claim confidence score interface",
                 initialQuantity: 1,
               },
@@ -302,7 +302,7 @@ export default function HomePage() {
                 name: "One-Click Sharing",
                 price: "FREE",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/share-interface-showing-one-click-verifi-1772806231792-db5abc6b.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/share-interface-showing-one-click-verifi-1772806231792-db5abc6b.png?_wi=1",
                 imageAlt: "Safe sharing verification tools",
                 initialQuantity: 1,
               },
@@ -329,7 +329,7 @@ export default function HomePage() {
                 name: "Dr. Maria Santos",
                 role: "Director of Fact-Checking, FactVerify International",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-dr-maria-santos-1772806228264-68ed93aa.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-dr-maria-santos-1772806228264-68ed93aa.png?_wi=1",
                 imageAlt: "Dr. Maria Santos",
               },
               {
@@ -340,7 +340,7 @@ export default function HomePage() {
                 name: "James Okonkwo",
                 role: "Election Observer, Democratic Monitors Coalition",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-james-okonkwo-e-1772806228025-66594ee7.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-james-okonkwo-e-1772806228025-66594ee7.png?_wi=1",
                 imageAlt: "James Okonkwo",
               },
               {
@@ -351,7 +351,7 @@ export default function HomePage() {
                 name: "Elena Volkov",
                 role: "Regional Coordinator, International Relief Services",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-elena-volkov-hu-1772806228588-d3849e80.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-elena-volkov-hu-1772806228588-d3849e80.png?_wi=1",
                 imageAlt: "Elena Volkov",
               },
               {
@@ -362,7 +362,7 @@ export default function HomePage() {
                 name: "Professor Aisha Patel",
                 role: "Media Literacy Educator, Global University",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-professor-aisha-1772806228869-57a9b6be.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-professor-aisha-1772806228869-57a9b6be.png?_wi=1",
                 imageAlt: "Professor Aisha Patel",
               },
               {
@@ -373,7 +373,7 @@ export default function HomePage() {
                 name: "Chen Wei",
                 role: "Head of Content Moderation, AsiaTech Media",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-chen-wei-head-o-1772806229050-0388415f.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-chen-wei-head-o-1772806229050-0388415f.png?_wi=1",
                 imageAlt: "Chen Wei",
               },
               {
@@ -384,7 +384,7 @@ export default function HomePage() {
                 name: "Kwame Mensah",
                 role: "Executive Director, Digital Rights Africa",
                 imageSrc:
-                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-kwame-mensah-ng-1772806229421-05914924.png",
+                  "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-kwame-mensah-ng-1772806229421-05914924.png?_wi=1",
                 imageAlt: "Kwame Mensah",
               },
             ]}
@@ -476,7 +476,7 @@ export default function HomePage() {
 
       <div id="footer" data-section="footer" className="py-0">
         <FooterMedia
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png?_wi=1"
           imageAlt="Global verification network"
           logoText="TruthGuard"
           copyrightText="© 2025 TruthGuard. Fighting misinformation, protecting democracy."
