@@ -83,7 +83,7 @@ export default function ExtensionPage() {
             { text: "Download Now", href: "https://chrome.google.com" },
             { text: "Learn More", href: "#features" },
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/browser-window-showing-truthguard-extens-1772806230097-c428a5c8.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/browser-window-showing-truthguard-extens-1772806230097-c428a5c8.png?_wi=2"
           imageAlt="Browser extension interface"
           showDimOverlay={true}
         />
@@ -104,7 +104,7 @@ export default function ExtensionPage() {
               title: "Real-Time Alerts",
               subtitle: "Get notified instantly when suspicious content appears",
               description: "Our extension analyzes web content in real-time, comparing claims against our verification database. Receive confidence scores and matching patterns for debunked narratives instantly.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/close-up-of-browser-extension-alert-noti-1772806229302-c8803791.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/close-up-of-browser-extension-alert-noti-1772806229302-c8803791.png?_wi=2",
               imageAlt: "Extension alert notification",
               buttons: [{ text: "Download", href: "https://chrome.google.com" }],
             },
@@ -114,7 +114,7 @@ export default function ExtensionPage() {
               title: "Confidence Metrics",
               subtitle: "Visual indicators of claim reliability",
               description: "See at a glance how reliable content is with our intuitive confidence score system. Color-coded indicators help you quickly assess whether information is verified, disputed, or still under review.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/confidence-score-visualization-showing-p-1772806228778-851eef69.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/confidence-score-visualization-showing-p-1772806228778-851eef69.png?_wi=2",
               imageAlt: "Confidence score interface",
               buttons: [{ text: "How It Works", href: "#how-it-works" }],
             },
@@ -124,7 +124,7 @@ export default function ExtensionPage() {
               title: "One-Click Sharing",
               subtitle: "Share verified claims with context",
               description: "Share suspicious content with verification context already included. Our extension automatically adds fact-check links and warning labels, helping prevent misinformation spread across social media.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/share-interface-showing-one-click-verifi-1772806231792-db5abc6b.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/share-interface-showing-one-click-verifi-1772806231792-db5abc6b.png?_wi=2",
               imageAlt: "Safe sharing interface",
               buttons: [{ text: "Start Sharing", href: "/verify" }],
             },
@@ -147,7 +147,7 @@ export default function ExtensionPage() {
               id: "ext-1",
               name: "Real-Time Alert System",
               price: "FREE",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/close-up-of-browser-extension-alert-noti-1772806229302-c8803791.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/close-up-of-browser-extension-alert-noti-1772806229302-c8803791.png?_wi=3",
               imageAlt: "Real-time alert system",
               initialQuantity: 1,
             },
@@ -155,7 +155,7 @@ export default function ExtensionPage() {
               id: "ext-2",
               name: "Confidence Score Display",
               price: "FREE",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/confidence-score-visualization-showing-p-1772806228778-851eef69.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/confidence-score-visualization-showing-p-1772806228778-851eef69.png?_wi=3",
               imageAlt: "Confidence score display",
               initialQuantity: 1,
             },
@@ -163,7 +163,7 @@ export default function ExtensionPage() {
               id: "ext-3",
               name: "One-Click Sharing",
               price: "FREE",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/share-interface-showing-one-click-verifi-1772806231792-db5abc6b.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/share-interface-showing-one-click-verifi-1772806231792-db5abc6b.png?_wi=3",
               imageAlt: "One-click sharing",
               initialQuantity: 1,
             },
@@ -187,7 +187,7 @@ export default function ExtensionPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png?_wi=3"
           imageAlt="Global verification network"
           logoText="TruthGuard"
           copyrightText="© 2025 TruthGuard. Fighting misinformation, protecting democracy."
