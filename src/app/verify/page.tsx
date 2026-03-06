@@ -79,7 +79,7 @@ export default function VerifyPage() {
           tag="The Process"
           title="How to Verify Claims"
           description="Submit suspicious content for expert and community verification. Our four-layer system combines AI analysis, crowdsourcing, expert review, and consensus building to deliver accurate results."
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/four-layer-verification-system-diagram-s-1772806231382-f9200383.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/four-layer-verification-system-diagram-s-1772806231382-f9200383.png?_wi=3"
           imageAlt="Four-layer verification process"
           useInvertedBackground={false}
           buttons={[
@@ -104,7 +104,7 @@ export default function VerifyPage() {
               quote: "TruthGuard's crowdsourced verification platform cut our fact-checking time by 60%. We can now respond to false narratives within hours instead of days.",
               name: "Dr. Maria Santos",
               role: "Director of Fact-Checking, FactVerify International",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-dr-maria-santos-1772806228264-68ed93aa.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-dr-maria-santos-1772806228264-68ed93aa.png?_wi=2",
               imageAlt: "Dr. Maria Santos",
             },
             {
@@ -113,7 +113,7 @@ export default function VerifyPage() {
               quote: "During the election crisis in our region, TruthGuard detected 87% of false voting rumors before they spread. It genuinely protected democratic integrity.",
               name: "James Okonkwo",
               role: "Election Observer, Democratic Monitors Coalition",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-james-okonkwo-e-1772806228025-66594ee7.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-james-okonkwo-e-1772806228025-66594ee7.png?_wi=2",
               imageAlt: "James Okonkwo",
             },
             {
@@ -122,7 +122,7 @@ export default function VerifyPage() {
               quote: "When the hurricane hit, misinformation spread faster than real information. TruthGuard's real-time verification meant accurate aid information reached people who needed it most.",
               name: "Elena Volkov",
               role: "Regional Coordinator, International Relief Services",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-elena-volkov-hu-1772806228588-d3849e80.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-elena-volkov-hu-1772806228588-d3849e80.png?_wi=2",
               imageAlt: "Elena Volkov",
             },
             {
@@ -131,7 +131,7 @@ export default function VerifyPage() {
               quote: "Our students use TruthGuard's fact trails to understand how misinformation spreads. It's the best educational tool we've found for teaching critical thinking.",
               name: "Professor Aisha Patel",
               role: "Media Literacy Educator, Global University",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-professor-aisha-1772806228869-57a9b6be.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-professor-aisha-1772806228869-57a9b6be.png?_wi=2",
               imageAlt: "Professor Aisha Patel",
             },
             {
@@ -140,7 +140,7 @@ export default function VerifyPage() {
               quote: "Most misinformation tools have Western bias. TruthGuard's diverse training data and cultural nuance scoring finally makes verification fair for our Asian market.",
               name: "Chen Wei",
               role: "Head of Content Moderation, AsiaTech Media",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-chen-wei-head-o-1772806229050-0388415f.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-chen-wei-head-o-1772806229050-0388415f.png?_wi=2",
               imageAlt: "Chen Wei",
             },
             {
@@ -149,7 +149,7 @@ export default function VerifyPage() {
               quote: "We deployed TruthGuard's open-source core at our NGO. The transparency and scalability let us protect 50 countries with minimal resources.",
               name: "Kwame Mensah",
               role: "Executive Director, Digital Rights Africa",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-kwame-mensah-ng-1772806229421-05914924.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/professional-portrait-of-kwame-mensah-ng-1772806229421-05914924.png?_wi=2",
               imageAlt: "Kwame Mensah",
             },
           ]}
@@ -172,7 +172,7 @@ export default function VerifyPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/global-network-visualization-showing-int-1772806228357-12377876.png?_wi=4"
           imageAlt="Global verification network"
           logoText="TruthGuard"
           copyrightText="© 2025 TruthGuard. Fighting misinformation, protecting democracy."
