@@ -7,54 +7,37 @@ import { ServiceWrapper } from "@/components/ServiceWrapper";
 import Tag from "@/tag/Tag";
 
 const halant = Halant({
-  variable: "--font-halant",
-  subsets: ["latin"],
+  variable: "--font-halant",  subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
 });
 
 const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
+  variable: "--font-inter",  subsets: ["latin"],
 });
 
 const libreBaskerville = Libre_Baskerville({
-  variable: "--font-libre-baskerville",
-  subsets: ["latin"],
+  variable: "--font-libre-baskerville",  subsets: ["latin"],
   weight: ["400", "700"],
 });
 
 export const metadata: Metadata = {
-  title: "TruthGuard - Real-Time Misinformation Shield",
-  description: "Detect and verify misinformation in real-time with AI-powered analysis, crowdsourced verification, and browser extension alerts. Protect democracy and vulnerable populations.",
-  keywords: "misinformation, fact-checking, deepfake detection, verification, media literacy, democracy protection, fake news, verification platform",
-  metadataBase: new URL("https://truthguard.org"),
+  title: "TruthGuard - Real-Time Misinformation Shield",  description: "Detect and verify misinformation in real-time with AI-powered analysis, crowdsourced verification, and browser extension alerts. Protect democracy and vulnerable populations.",  keywords: "misinformation, fact-checking, deepfake detection, verification, media literacy, democracy protection, fake news, verification platform",  metadataBase: new URL("https://truthguard.org"),
   alternates: {
-    canonical: "https://truthguard.org",
-  },
+    canonical: "https://truthguard.org"},
   robots: {
     index: true,
     follow: true,
   },
   openGraph: {
-    title: "TruthGuard - Real-Time Misinformation Shield",
-    description: "AI-powered platform fighting misinformation across 100+ countries. Verify claims instantly with browser extension and crowdsourced verification.",
-    url: "https://truthguard.org",
-    siteName: "TruthGuard",
-    type: "website",
-    images: [
+    title: "TruthGuard - Real-Time Misinformation Shield",    description: "AI-powered platform fighting misinformation across 100+ countries. Verify claims instantly with browser extension and crowdsourced verification.",    url: "https://truthguard.org",    siteName: "TruthGuard",    type: "website",    images: [
       {
-        url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/digital-security-concept-featuring-a-lum-1772806230156-b34c48e5.png",
-        alt: "TruthGuard - Real-Time Misinformation Detection",
-        width: 1200,
+        url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/digital-security-concept-featuring-a-lum-1772806230156-b34c48e5.png",        alt: "TruthGuard - Real-Time Misinformation Detection",        width: 1200,
         height: 630,
       },
     ],
   },
   twitter: {
-    card: "summary_large_image",
-    title: "TruthGuard - Fight Misinformation",
-    description: "Detect fake news and deepfakes in real-time. Join the global verification community.",
-    images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/digital-security-concept-featuring-a-lum-1772806230156-b34c48e5.png"],
+    card: "summary_large_image",    title: "TruthGuard - Fight Misinformation",    description: "Detect fake news and deepfakes in real-time. Join the global verification community.",    images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZh30Qi21tuT4ekNerkSR6qP3y/digital-security-concept-featuring-a-lum-1772806230156-b34c48e5.png"],
   },
 };
 
